@@ -12,6 +12,7 @@
 <a href="mailto:emircancakmak82@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:emircancakmak82@gmail.com">
 </a>
+<br />
 <p>If you want to check out my stack, you can find more at the tech stack badge below.</p>
 <a href="https://stackshare.io/emircancakmakk/my-stack">
     <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="https://stackshare.io/emircancakmakk/my-stack">
