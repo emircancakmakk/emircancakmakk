@@ -1,5 +1,5 @@
 <h2 align="left">Hi there 👋</h2>
-<p>Emircan here. I'm a passionate and hardworking computer engineering student eager to kickstart my career as a software developer. Here is my social media accounts:</p>
+<p>Emircan here. I'm a passionate and hardworking computer engineering student eager to kickstart my career as a software developer. <br>Here is my social media accounts:</p>
 <a href="https://twitter.com/emircancakmakk" target="_blank">
     <img src="https://img.shields.io/badge/%20-twitter-%231DA1F2" alt="https://twitter.com/emircancakmakk">
 </a>
