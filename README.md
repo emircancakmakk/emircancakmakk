@@ -1,4 +1,4 @@
-<h1 align="left">Hi there 👋</h1>
+<h2 align="left">Hi there 👋</h2>
 <p>Emircan here. I'm a passionate and hardworking computer engineering student eager to kickstart my career as a software developer.</p>
 
 <a href="https://twitter.com/emircancakmakk" target="_blank">
