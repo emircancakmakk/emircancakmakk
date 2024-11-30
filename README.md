@@ -1,5 +1,5 @@
 <h2 align="left">Hi there 👋</h2>
-<p>Emircan here. I'm a passionate and hardworking computer engineering student eager to kickstart my career as a software developer.</p>
+<p>Emircan here.</p>
 <p>My social media accounts are listed below. Additionally, if you want to check out my tech stack, you can find more information in the tech stack badge below.</p>
 <a href="https://twitter.com/emircancakmakk" target="_blank">
     <img src="https://img.shields.io/badge/%20-twitter-%231DA1F2" alt="https://twitter.com/emircancakmakk">
