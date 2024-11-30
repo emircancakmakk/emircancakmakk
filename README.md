@@ -1,6 +1,6 @@
 <h2 align="left">Hi there 👋</h2>
 <p>Emircan here.</p>
-<p>My social media accounts are listed below. Additionally, if you want to check out my tech stack, you can find more information in the tech stack badge below.</p>
+<p>My social media accounts are listed below:
 <a href="https://twitter.com/emircancakmakk" target="_blank">
     <img src="https://img.shields.io/badge/%20-twitter-%231DA1F2" alt="https://twitter.com/emircancakmakk">
 </a>
@@ -12,7 +12,4 @@
 </a>
 <a href="mailto:emircancakmak82@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:emircancakmak82@gmail.com">
-</a>
-<a href="https://stackshare.io/emircancakmakk/my-stack">
-    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="https://stackshare.io/emircancakmakk/my-stack">
 </a>
